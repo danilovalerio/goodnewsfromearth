@@ -1,0 +1,16 @@
+verificar versao node
+node -v
+
+listar versoes
+nvm ls
+
+instalar versao especifica do node
+nvm install lst/hydrogennvm
+
+
+nvmrc (runner commands)
+
+
+next.js vai controlar as paredes e não vai opinar que esta no projeto
+
+Criar packet json (para configurar o projeto e suas dependencias)
