@@ -33,3 +33,4 @@ npm run dev
 - pages > js ou typescript será interpetrado como uma página
 
 --------------
+Após criar a index e definir a função padrão pode rodar o programa novamente
