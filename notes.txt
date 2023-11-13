@@ -38,3 +38,9 @@ Após criar a index e definir a função padrão pode rodar o programa novamente
 ------------
 Adicionar o prettier para ambiente de desenvolvimento
  npm install prettier -D
+
+------------
+Formatar de acordo com o prettier
+configurações do editor >  settings > formatter > Editor: Default formatter e seleciona o prettier como default
+depois procurar por "format on save" e certificar de que o formatar ao salvar está selecionada
+procurar "auto save" e desativar
