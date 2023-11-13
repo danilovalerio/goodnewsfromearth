@@ -34,3 +34,7 @@ npm run dev
 
 --------------
 Após criar a index e definir a função padrão pode rodar o programa novamente
+
+------------
+Adicionar o prettier para ambiente de desenvolvimento
+ npm install prettier -D
