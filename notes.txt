@@ -13,4 +13,23 @@ nvmrc (runner commands)
 
 next.js vai controlar as paredes e não vai opinar que esta no projeto
 
-Criar packet json (para configurar o projeto e suas dependencias)
+Criar package json (para configurar o projeto e suas dependencias)
+npm init
+
+Instalar o next@13.1.6 (que lida com as paredes do sistema)
+npm install next@13.1.6
+
+React é separado em subcomponentes e pode renderizar para n coisas com outros módulos
+npm install react@18.2.0 
+
+DOM para renderizar web (native por exemplo é para mobile)
+npm install react-dom@18.2.0 
+
+Para rodar o atalho do script do package json "next dev" por exemplo, no cmd
+npm run dev
+--------------------------------------------------
+# O next usa o file basing router igual o php que usa o roteamento de arquivos
+## Ele tem dois diretórios para colocar os arquivos
+- pages > js ou typescript será interpetrado como uma página
+
+--------------
